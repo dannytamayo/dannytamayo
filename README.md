@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+<h3 align="center">Fullstack developer with extensive experience in Laravel, Next.js and Flutter. Specialized in software architecture and creating efficient RESTful APIs. Skilled in both frontend and backend development, with a focus on user experience (UI/UX) and database management. Committed to code quality, implementing test automation to ensure robust and reliable applications.</h3>
+
 🔭 I am currently working on Sounter<br>🌱 I am currently learning Astro<br>📫 How to contact me dggt1087@gmail.com
 
 
