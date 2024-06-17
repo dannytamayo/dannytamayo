@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy trabajando en Sounter<br>🌱 Actualmente estoy aprendiendo Astro<br>📫 Como contactarme dggt1087@gmail.com
+🔭 I am currently working on Sounter<br>🌱 I am currently learning Astro<br>📫 How to contact me dggt1087@gmail.com
 
 
 ## 🌐 Socials:
